@@ -3,7 +3,12 @@ This is the code implementation of the method used in our paper *"Behav-Marker: 
 # Requirements
 Our models are trained and tested in the environment of PyTorch 1.9.1, CUDA 11.1. Our interactive software is suitable for win10 and above system versions.
 # Datasets
-The third-party datasets used in our study are provided under the Creative Commons Public License: Movebank (https://www.movebank.org/), Microsoft T-Drive Project (https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/), Geolife Trajectories 1.3 (https://www.microsoft.com/en-us/download/details.aspx?id=52367), Taxi GPS Dataset (https://tianchi.aliyun.com/dataset/94216), and Gowalla Dataset (https://snap.stanford.edu/data/loc-gowalla.html).
+The third-party datasets used in our study are provided under the Creative Commons Public License:  
+- [Movebank](https://www.movebank.org/)  
+- [Microsoft T-Drive Project](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/)  
+- [Geolife Trajectories 1.3](https://www.microsoft.com/en-us/download/details.aspx?id=52367)  
+- [Taxi GPS Dataset](https://tianchi.aliyun.com/dataset/94216)  
+- [Gowalla Dataset](https://snap.stanford.edu/data/loc-gowalla.html).  
 ## Data preparation
 We make our internal data public. The internal data (trajectory maps and heat maps) used in this study are now open to the research community through an open platform (), which can be used by academic research peers to verify experimental results, promote method replication, and promote collaborative exploration in the field of early screening for Parkinson's disease.
 Datasets with the following folder structure.
